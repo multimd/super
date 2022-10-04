@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:multimd/sub1.git
+[submodule "module"]
+	path = module
+	url = git@github.com:multimd/sub2.git
